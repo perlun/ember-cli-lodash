@@ -1,0 +1,21 @@
+{
+  "name": "ember-cli-lodash",
+  "version": "0.0.1",
+  "description": "Include Lo-Dash into am ember-cli application.",
+  "main": "index.js",
+  "keywords": [
+    "ember-addon"
+  ],
+  "author": "Alexandros Kessaris",
+  "license": "",
+  "dependencies": { },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/artsyca/ember-cli-lodash"
+  },
+  "bugs": {
+    "url": "https://github.com/artsyca/ember-cli-lodash/issues"
+  },
+  "homepage": "https://github.com/artsyca/ember-cli-lodash"
+}
