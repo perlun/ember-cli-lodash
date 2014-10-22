@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-lodash",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Include Lo-Dash into am ember-cli application.",
   "main": "index.js",
   "keywords": [
