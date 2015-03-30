@@ -1,7 +1,9 @@
+
+
 # Deprecation
 This package is probably not needed any more given Lodash 3.0.
-We are currently testing how the regular lodash package can be used in Ember CLI
-But given its support for ES6 and AMD, it shouldn't be necessary to use ember-cli-lodash any longer!
+
+You should be able to include `lodash` in your `package.json` and then `import _ from "npm:lodash"` with `ember-browserify` (though this doesn't support named imports)
 
 ember-cli-lodash
 ================
