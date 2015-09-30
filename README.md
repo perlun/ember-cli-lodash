@@ -1,9 +1,12 @@
 
 
 # Deprecation
-This package is probably not needed any more given Lodash 3.0.
+This package is deprecated.
 
-You should be able to include `lodash` in your `package.json` and then `import _ from "npm:lodash"` with `ember-browserify` (though this doesn't support named imports)
+You should use [ember-lodash](https://www.npmjs.com/package/ember-lodash)
+
+Or, you can use [[lodash/lodash](https://www.npmjs.com/package/ember-browserify)] to include (https://github.com/lodash/lodash)include `lodash` in your `package.json` and then `import _ from "npm:lodash"` (though this doesn't support named imports)
+
 
 ember-cli-lodash
 ================
